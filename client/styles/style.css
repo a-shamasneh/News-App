@@ -1,0 +1,23 @@
+.tit{
+   	text-align: center;
+    color: #0e5833;
+    font-family: fantasy;
+    letter-spacing: 1px;
+    font-size: 18px;
+   }
+   .desc{
+   	    text-align: center;
+    font-size: 19px;
+    color: chocolate;
+   }
+
+   li a{
+
+    font-weight: 800;
+    font-size: large;
+   }
+li a:hover {
+    background-color: #555;
+    color: white;
+}
+ 
