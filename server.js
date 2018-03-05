@@ -5,7 +5,7 @@ app.listen(port);
 console.log('Server started! At http://localhost:' + port);
 
 app.get('/shekh',function(req,resp){
-	 resp.send("الله حيو الشيخ")
+	 resp.send("welcome shamasneh")
 	//console.log("ok")
 })
 app.use(express.static(__dirname +'/client'))
